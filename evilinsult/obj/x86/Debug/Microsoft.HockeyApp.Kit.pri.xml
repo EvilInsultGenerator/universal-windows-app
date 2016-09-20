@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.HockeyApp.Kit" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Microsoft.HockeyApp.Kit">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="Microsoft.HockeyApp.Kit.rd.xml" uri="ms-resource://Microsoft.HockeyApp.Kit/Files/Microsoft.HockeyApp.Kit/Properties/Microsoft.HockeyApp.Kit.rd.xml">
+						<Candidate type="Path">
+							<Value>Microsoft.HockeyApp.Kit\Properties\Microsoft.HockeyApp.Kit.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

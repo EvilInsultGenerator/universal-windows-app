@@ -1,0 +1,92 @@
+﻿<Page
+    x:Class="evilinsult.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:evilinsult"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/SplitViewStyles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.Content>
+                <Grid/>
+            </CommandBar.Content>
+
+            <AppBarButton Name="btnlanguage" Icon="World" Label="language" >
+                <AppBarButton.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem Text="English" Click="MenuFlyoutItem_Click">
+                        </MenuFlyoutItem>
+                        <MenuFlyoutItem Text="French" Click="MenuFlyoutItem_Click">
+                        </MenuFlyoutItem>
+                        <MenuFlyoutItem Text="German" Click="MenuFlyoutItem_Click">
+                        </MenuFlyoutItem>
+                        <MenuFlyoutItem Text="Spanish" Click="MenuFlyoutItem_Click">
+                        </MenuFlyoutItem>
+                        <MenuFlyoutItem Text="Russian" Click="MenuFlyoutItem_Click">
+                        </MenuFlyoutItem>
+                    </MenuFlyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <ProgressRing x:Name="progressring" IsActive="True" 
+    		Height="20" Width="40" Margin="0,0,0,180"
+    		HorizontalAlignment="Center" 
+    		VerticalAlignment="Center"/>
+      
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch"
+    		Orientation="Vertical" 
+    		 MinHeight="150" >
+
+            <TextBlock x:Name="tbInsult" 
+    			Text="Loading Please Wait ......"
+    			TextAlignment="Center"
+    			HorizontalAlignment="Center"
+                TextWrapping="Wrap"
+                Width="350"
+    			VerticalAlignment="Top" FontSize="16" />
+
+            <TextBlock 
+    			
+    			HorizontalAlignment="Center"
+                TextWrapping="Wrap"
+                Width="350"
+                Height="50"
+    			 FontSize="16" />
+            <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center"  >
+
+                <Button x:Name="button_insult" 
+            		
+            		Height="50"
+            		Content="Generate Insult" 
+            		Click="button_insult_Click"
+            		
+            		 FontSize="18" FontWeight="Bold"/>
+                
+                <RadioButton x:Name="ShareButton" Tag="&#59181;" Foreground="Black" 
+        		  GroupName="Nav" Margin="30,0,0,0" Style="{StaticResource NavButtonStyle}"
+        		Click="ShareButton_Click"   />
+
+
+            </StackPanel>
+
+
+
+        </StackPanel>
+    </Grid>
+</Page>

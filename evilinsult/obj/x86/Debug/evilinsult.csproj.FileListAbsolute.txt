@@ -1,0 +1,643 @@
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\App.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\HomePage.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\MainPage.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\evilinsult.xr.xml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\evilinsult.exe
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\resources.pri
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\AppxManifest.xml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Core\AppxManifest.xml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Core\evilinsult.exe
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\evilinsult.build.appxrecipe
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Extensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Core.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Windows.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Linq.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\Newtonsoft.Json.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.AppContext.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Collections.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Data.Common.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\ClrCompression.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Linq.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Requests.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.Sockets.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ObjectModel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Private.Networking.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Private.Uri.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Context.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Security.Claims.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Security.Principal.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Timer.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\evilinsult.csprojResolveAssemblyReference.cache
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\App.g.i.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\App.g.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.i.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.i.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\App.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\HomePage.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\MainPage.xaml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\App.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\HomePage.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\MainPage.xbf
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\evilinsult.exe
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\ResourceHandlingTask.state
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml.intermediate
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles.intermediate
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles.intermediate
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles.intermediate
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Enkomplete\Client-Work\evilinsult\evilinsult\obj\x86\Debug\ProjectArchitectures.txt
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\App.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\HomePage.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\MainPage.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.xr.xml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.exe
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\resources.pri
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\AppxManifest.xml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Core\AppxManifest.xml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Core\evilinsult.exe
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.build.appxrecipe
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Extensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Core.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Windows.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Linq.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Newtonsoft.Json.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.AppContext.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Data.Common.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\ClrCompression.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Requests.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Sockets.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ObjectModel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.Networking.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.Uri.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Context.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Security.Claims.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Security.Principal.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Timer.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.csprojResolveAssemblyReference.cache
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.g.i.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.g.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.i.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.i.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.xaml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.xbf
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.exe
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\ResourceHandlingTask.state
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml.intermediate
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles.intermediate
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles.intermediate
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles.intermediate
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\ProjectArchitectures.txt
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\App.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\HomePage.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\MainPage.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.xr.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.exe
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\resources.pri
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\AppxManifest.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Core\AppxManifest.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Core\evilinsult.exe
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\evilinsult.build.appxrecipe
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Extensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Core.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Windows.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Linq.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Newtonsoft.Json.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.AppContext.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Data.Common.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\ClrCompression.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Requests.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.Sockets.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ObjectModel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.Networking.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Private.Uri.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Context.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Security.Claims.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Security.Principal.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Threading.Timer.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.csprojResolveAssemblyReference.cache
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.g.i.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.g.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.i.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.g.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.i.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.g.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.xaml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\App.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MainPage.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\ColorTemplates.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SettingsStyle.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\SplitViewStyles.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Styles\Style.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\HomePage.xbf
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.exe
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\evilinsult.pdb
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\ResourceHandlingTask.state
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\priconfig.xml.intermediate
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\layout.resfiles.intermediate
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\resources.resfiles.intermediate
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\pri.resfiles.intermediate
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\ProjectArchitectures.txt
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.HockeyApp.Core45.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\Microsoft.HockeyApp.Kit.dll
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\Microsoft.HockeyApp.Kit.pri.xml
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\GoogleAnalytics.Core.winmd
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\GoogleAnalytics.Core.pdb
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\GoogleAnalytics.winmd
+F:\Enkomplete\Portfolio-Work\MobileApp\Evil Insult\evilinsult\evilinsult\bin\x86\Debug\GoogleAnalytics.pdb

@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\split.pri"			"resources.pri"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\evilinsult.xr.xml"			"evilinsult.xr.xml"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\obj\x86\Debug\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

@@ -1,0 +1,2 @@
+MainPackage=F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\bin\ARM\Debug\evilinsult_1.0.0.0_ARM_Debug.appx
+SymbolPackage=F:\Enkomplete\Client-Work\Evil Insult\evilinsult\evilinsult\AppPackages\evilinsult_1.0.0.0_Debug_Test\evilinsult_1.0.0.0_ARM_Debug.appxsym

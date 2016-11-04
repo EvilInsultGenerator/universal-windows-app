@@ -15,6 +15,10 @@ Download from the [Windows Store](https://www.microsoft.com/store/apps/9NBLGGH4R
 
 We love to get in touch with you. Feel welcome to email your questions and feedback to [marvin@evilinsult.com](mailto:marvin@evilinsult.com).
 
+### Translation
+
+Translations are hosted on [Transifex](https://www.transifex.com/evil-insult-generator/).
+
 ### License
 > This is free and unencumbered software released into the public domain.
 > 
